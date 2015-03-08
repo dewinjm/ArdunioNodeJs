@@ -1,0 +1,11 @@
+{
+	"name" : "nodebotsTest",
+	"version" : "0.0.1",
+	"priate" : "true",
+	"dependecies" : 
+	{
+		"socket.io" : "1.3.5",		
+		"express" : "4.12.2",
+		"johnny-five" : "0.8.46"
+	}
+}
