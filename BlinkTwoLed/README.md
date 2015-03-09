@@ -7,7 +7,7 @@ modules used:
  
 ####Diagram:
 
-<img src="https://github.com/cpmproto/ArdunioNodeJs/blob/master/BlinkTwoLed/raw/diagrama_bb.png">
+<img src="https://github.com/cpmproto/ArdunioNodeJs/blob/master/BlinkTwoLed/raw/diagrama.png">
  
 1- connect your arduino in your computer
 
